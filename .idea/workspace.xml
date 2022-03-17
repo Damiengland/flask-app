@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fafc1e4c-30cd-402d-a61e-8f909208a60e" name="Changes" comment="" />
+    <list default="true" id="fafc1e4c-30cd-402d-a61e-8f909208a60e" name="Changes" comment="Setup Gunicorn" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +43,29 @@
       <option name="presentableId" value="Default" />
       <updated>1647397423316</updated>
     </task>
+    <task id="LOCAL-00001" summary="Setup Gunicorn">
+      <created>1647487741653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647487741653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Setup Gunicorn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup Gunicorn" />
   </component>
 </project>
